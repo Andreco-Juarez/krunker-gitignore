@@ -1,1 +1,11 @@
-passwords.txt
+#archivo
+#passwords.txt
+
+#directorios
+#krunker2/
+#trolPass/**
+
+#comodines
+#*passwords.txt
+
+/trolPass/cosasSeguras/
